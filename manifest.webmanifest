@@ -1,0 +1,15 @@
+{
+  "name": "Psicoterapia Esencial",
+  "short_name": "PsicoEsencial",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfcfd",
+  "theme_color": "#0b3158",
+  "icons": [
+    {
+      "src": "logo-oficial.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
