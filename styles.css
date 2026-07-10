@@ -1,0 +1,41 @@
+
+:root{
+ --ink:#13263b;--navy:#0b2f55;--blue:#1267a1;--blue2:#29a9db;--silver:#cbd4dc;
+ --paper:#fbfcfd;--soft:#f1f6fa;--white:#fff;--muted:#607285;--shadow:0 24px 70px rgba(8,40,70,.14);
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Montserrat,sans-serif;color:var(--ink);line-height:1.72;background:var(--paper)}
+img{max-width:100%;display:block}a{text-decoration:none;color:inherit}h1,h2,h3,h4{font-family:"Cormorant Garamond",serif;line-height:1.08;margin-top:0}
+h2{font-size:clamp(2.25rem,4vw,3.8rem)}h3{font-size:1.65rem}.container{width:min(1180px,92%);margin:auto}.section{padding:100px 0}.soft{background:var(--soft)}
+.overline{text-transform:uppercase;letter-spacing:.17em;font-size:.75rem;font-weight:700;color:var(--blue)}
+.header{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.94);backdrop-filter:blur(14px);border-bottom:1px solid #e4ebf0}
+.nav{min-height:80px;display:flex;align-items:center;gap:24px}.mini-brand{display:flex;align-items:center;gap:12px}.mini-brand img{width:58px;height:58px;object-fit:contain}
+.mini-brand strong,.mini-brand small{display:block}.mini-brand strong{font-family:"Cormorant Garamond";font-size:1.2rem;color:var(--navy)}.mini-brand small{font-size:.68rem;color:var(--muted)}
+.menu{margin-left:auto;display:flex;gap:22px}.menu a{font-weight:600;font-size:.89rem;color:#41576a}.menu a:hover{color:var(--blue)}
+.menu-btn{display:none;margin-left:auto;border:0;background:none;font-size:1.8rem}.btn{display:inline-flex;align-items:center;justify-content:center;padding:14px 22px;border-radius:999px;background:linear-gradient(135deg,var(--navy),var(--blue2));color:#fff;font-weight:700;box-shadow:0 14px 32px rgba(14,92,145,.23);transition:.2s}
+.btn:hover{transform:translateY(-2px)}.btn-nav{font-size:.84rem;padding:11px 17px}.btn-ghost{background:#fff;color:var(--navy);border:1px solid #c7d5df;box-shadow:none}
+.hero{padding:78px 0 88px;background:radial-gradient(circle at 80% 18%,rgba(32,166,218,.19),transparent 31%),linear-gradient(180deg,#fff,#f3f8fb)}
+.hero-grid{display:grid;grid-template-columns:1.08fr .92fr;align-items:center;gap:70px}.hero h1{font-size:clamp(4rem,8vw,7.4rem);margin-bottom:8px}.hero h1 span{color:var(--blue)}
+.motto{font-family:"Cormorant Garamond";font-size:2rem;color:#567087;margin:.2rem 0 1.2rem}.intro{font-size:1.12rem;max-width:690px;color:#445b70}.actions{display:flex;gap:12px;flex-wrap:wrap;margin:30px 0}
+.trust{display:flex;gap:13px;flex-wrap:wrap}.trust span{padding:8px 12px;background:#fff;border:1px solid #dce7ee;border-radius:999px;font-size:.79rem;font-weight:600;color:#50687a}
+.official-photo{position:relative;border-radius:30px;overflow:hidden;background:#fff;box-shadow:var(--shadow);border:1px solid #dfe8ee}.official-photo img{width:100%;min-height:610px;object-fit:cover;object-position:center}
+.photo-label{position:absolute;left:18px;right:18px;bottom:18px;padding:18px;border-radius:18px;background:rgba(8,36,65,.86);backdrop-filter:blur(10px);color:#fff}.photo-label strong,.photo-label span{display:block}.photo-label strong{font-family:"Cormorant Garamond";font-size:1.45rem}.photo-label span{font-size:.8rem;color:#d8e8f3}
+.brand-section{padding:95px 0;background:#fff}.brand-grid{display:grid;grid-template-columns:.78fr 1.22fr;align-items:center;gap:70px}.logo-card{padding:28px;background:linear-gradient(145deg,#fff,#edf3f6);border:1px solid #dfe7ec;border-radius:30px;box-shadow:var(--shadow)}
+.brand-section blockquote{font-family:"Cormorant Garamond";font-size:2.15rem;color:var(--navy);border-left:4px solid var(--blue2);padding-left:22px;margin:28px 0 0}
+.profile{display:grid;grid-template-columns:1.2fr .8fr;gap:65px;align-items:start}.profile h3{color:var(--blue);font-family:Montserrat;font-size:1.08rem}.pills{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}
+.pills span{padding:9px 13px;border-radius:999px;background:#fff;border:1px solid #dce6ed;font-size:.8rem;font-weight:600}.contact-card{background:linear-gradient(145deg,var(--navy),#155f91);color:#fff;padding:34px;border-radius:26px;box-shadow:var(--shadow)}
+.contact-card h3{color:#fff}.contact-card dl{margin:0}.contact-card dl div{padding:15px 0;border-bottom:1px solid rgba(255,255,255,.15)}dt{font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:#b9d3e5}dd{margin:3px 0 0}.text-link{display:inline-block;margin-top:22px;color:#fff;font-weight:700}
+.heading{max-width:790px;margin-bottom:45px}.heading>p:last-child{color:var(--muted)}.service-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.service-grid article{background:#fff;border:1px solid #e0e8ee;border-radius:20px;padding:26px;box-shadow:0 12px 35px rgba(10,45,76,.06)}.service-grid article>span{font-weight:700;color:var(--blue2);letter-spacing:.08em}
+.service-grid h3{font-size:1.5rem;margin:13px 0 10px}.service-grid p{font-size:.9rem;color:var(--muted);margin:0}.rates-note{margin-top:34px;border-radius:24px;padding:30px;background:linear-gradient(135deg,#e9f5fb,#f7fafc);display:flex;align-items:center;justify-content:space-between;gap:30px}
+.rates-note h3{margin-bottom:8px}.rates-note p{margin-bottom:0}.dark{background:linear-gradient(135deg,#071c33,#124f7c);color:#fff}.heading.light h2{color:#fff}.heading.light .overline{color:#8bd4f2}
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.steps>div{padding:27px;border-radius:20px;border:1px solid rgba(255,255,255,.15);background:rgba(255,255,255,.055)}.steps b{width:42px;height:42px;border-radius:50%;display:grid;place-items:center;background:#fff;color:var(--navy)}
+.steps h3{color:#fff;margin:18px 0 8px}.steps p{color:#c5dae8;font-size:.91rem}.info-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.info-grid article{padding:30px;border-radius:22px;background:#fff;border:1px solid #dfe7ed}
+.info-grid small{color:var(--muted)}.contact{background:linear-gradient(135deg,#0a2c50,#1a6d9e);color:#fff}.contact h2{color:#fff}.contact .overline{color:#9edcf3}.contact-layout{display:grid;grid-template-columns:1.2fr .8fr;gap:70px;align-items:center}
+.contact-data{margin:25px 0}.contact-data a{font-weight:700}.btn-light{background:#fff;color:var(--navy);box-shadow:none}.btn-outline-light{background:transparent;border:1px solid rgba(255,255,255,.44);box-shadow:none}
+.location-panel{padding:38px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:27px;backdrop-filter:blur(10px)}.location-panel h3{color:#fff}.location-icon{font-size:3rem}
+.location-panel a{font-weight:700}.emergency{padding:18px 0;background:#fff0f0;border-top:1px solid #efd1d1;border-bottom:1px solid #efd1d1;color:#713b3b}.emergency .container{display:flex;gap:12px;flex-wrap:wrap}
+footer{background:#06172b;color:#b7cad8;padding:58px 0 22px}.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:55px}.footer-brand img{width:220px;background:#fff;border-radius:16px;padding:8px;margin-bottom:18px}
+footer h4{color:#fff;font-family:Montserrat;font-size:.9rem;text-transform:uppercase;letter-spacing:.12em}footer a{display:block;margin:8px 0;font-size:.88rem}.legal{border-top:1px solid rgba(255,255,255,.1);margin-top:35px;padding-top:20px;font-size:.8rem}
+.wa-float{position:fixed;right:22px;bottom:22px;width:60px;height:60px;border-radius:50%;display:grid;place-items:center;background:#25d366;color:#fff;font-weight:800;box-shadow:0 14px 35px rgba(0,0,0,.22);z-index:50}
+@media(max-width:1020px){.menu{display:none;position:absolute;top:80px;left:0;right:0;background:#fff;padding:22px;flex-direction:column;box-shadow:0 20px 40px rgba(0,0,0,.09)}.menu.open{display:flex}.menu-btn{display:block}.btn-nav{display:none}.hero-grid,.brand-grid,.profile,.contact-layout{grid-template-columns:1fr}.service-grid,.steps{grid-template-columns:repeat(2,1fr)}.official-photo img{min-height:500px}}
+@media(max-width:650px){.section{padding:72px 0}.hero{padding-top:48px}.hero h1{font-size:4rem}.official-photo img{min-height:430px}.service-grid,.steps,.info-grid,.footer-grid{grid-template-columns:1fr}.rates-note{align-items:flex-start;flex-direction:column}.mini-brand img{width:48px;height:48px}.mini-brand strong{font-size:1rem}.mini-brand small{font-size:.61rem}}
