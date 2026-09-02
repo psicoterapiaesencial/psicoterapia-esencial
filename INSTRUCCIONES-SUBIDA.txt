@@ -1,0 +1,38 @@
+INSTRUCCIONES DE SUBIDA A GITHUB — RAMA nueva-web-2026
+
+1. Verifica en GitHub que esté seleccionada la rama: nueva-web-2026.
+2. Pulsa Add file > Upload files.
+3. Extrae este ZIP en tu teléfono antes de subirlo.
+4. Selecciona TODOS los archivos que están dentro de la carpeta nueva-web-2026.
+5. Súbelos a la raíz del repositorio, no dentro de una carpeta nueva.
+6. Espera a que termine la carga de todos los archivos.
+7. En Commit changes escribe:
+   Nueva web 2026 - base multipagina
+8. Confirma el commit en la rama nueva-web-2026.
+9. NO hagas merge a main todavía.
+10. Revisa la rama y, cuando todo esté validado, se prepara la publicación.
+
+ARCHIVOS QUE DEBEN VERSE EN LA RAÍZ:
+index.html
+styles.css
+script.js
+logo-oficial.png
+fotografia-oficial.png
+psicoterapia.html
+servicios.html
+como-trabajamos.html
+sobre-mi.html
+costos.html
+preguntas-frecuentes.html
+contacto.html
+ubicacion.html
+emergencias.html
+aviso-privacidad.html
+politica-cancelacion.html
+terminos.html
+404.html
+robots.txt
+sitemap.xml
+manifest.webmanifest
+googled65e5639ceacc24e.html
+README.txt

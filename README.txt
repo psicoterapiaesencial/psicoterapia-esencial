@@ -1,13 +1,36 @@
-PSICOTERAPIA ESENCIAL® — VERSIÓN 2 INSTITUCIONAL
+PSICOTERAPIA ESENCIAL® — NUEVA WEB 2026 / BASE MULTIPÁGINA
 
-MEJORAS:
-- Especialidades y preguntas frecuentes.
-- SEO técnico: canonical, robots.txt y sitemap.xml.
-- Favicon y manifest.
-- Mejor estructura para buscadores.
+RAMA OBJETIVO:
+nueva-web-2026
 
-ACTUALIZACIÓN EN GITHUB:
-1. Add file > Upload files.
-2. Sube todos los archivos.
-3. Commit: Actualización institucional versión 2.
-4. GitHub Pages se actualizará automáticamente.
+INCLUYE:
+- Nueva página Inicio.
+- Navegación multipágina.
+- Psicoterapia.
+- Servicios.
+- Cómo trabajamos (8 momentos).
+- Sobre mí.
+- Costos (estructura; importes pendientes de confirmación).
+- Preguntas frecuentes.
+- Contacto.
+- Ubicación.
+- Emergencias.
+- Aviso de privacidad.
+- Política de cancelación.
+- Términos de uso.
+- 404.
+- CSS responsive.
+- Menú móvil.
+- SEO básico, canonical, robots.txt y sitemap.xml.
+- Verificación de Google preservada.
+- Logo y fotografía oficiales preservados.
+
+PENDIENTES ANTES DE PUBLICAR EN MAIN:
+1. Confirmar el correo oficial.
+2. Confirmar tabla vigente de costos/duraciones/modalidades.
+3. Revisión jurídica del aviso de privacidad y términos.
+4. Confirmar política de cancelación vigente.
+5. Activar formulario sólo con un mecanismo seguro.
+6. Integrar mapa embebido y referencias de acceso.
+7. Revisar cada página en móvil y escritorio.
+8. No fusionar con main hasta aprobar la versión completa.

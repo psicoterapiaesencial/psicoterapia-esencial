@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/sitemap/0.9">
-<url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/</loc><priority>1.0</priority></url>
-<url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/aviso-privacidad.html</loc><priority>0.3</priority></url>
-<url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/politica-cancelacion.html</loc><priority>0.3</priority></url>
-<url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/terminos.html</loc><priority>0.3</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/psicoterapia.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/servicios.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/como-trabajamos.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/sobre-mi.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/costos.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/preguntas-frecuentes.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/contacto.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/ubicacion.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/emergencias.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/aviso-privacidad.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/politica-cancelacion.html</loc></url>
+  <url><loc>https://psicoterapiaesencial.github.io/psicoterapia-esencial/terminos.html</loc></url>
 </urlset>
