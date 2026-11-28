@@ -1,0 +1,104 @@
+{
+  "bibliotecas": [
+    {
+      "id": "ma-eugenia-gaytan",
+      "titular": "Ma. Eugenia Gaytán"
+    },
+    {
+      "id": "miguel-patlan",
+      "titular": "Miguel Patlán"
+    }
+  ],
+  "materiales": [
+    {
+      "titulo": "Actividades: juegos de mi comunidad",
+      "categoria": "Formación socioemocional",
+      "descripcion": "Juegos tradicionales, emociones, convivencia y resolución de conflictos.",
+      "paginas": 6,
+      "archivo": "pdf/01_Actividades_Juegos_de_mi_Comunidad.pdf",
+      "autor": null,
+      "coleccion": "ma-eugenia-gaytan",
+      "estado_autoria": "Autoría no verificada; recurso de la biblioteca"
+    },
+    {
+      "titulo": "Desarrollo completo: juegos, comunidad y emociones",
+      "categoria": "Formación socioemocional",
+      "descripcion": "Guía de actividades y estrategias de aprendizaje socioemocional.",
+      "paginas": 7,
+      "archivo": "pdf/02_Desarrollo_Juegos_Comunidad_y_Emociones.pdf",
+      "autor": null,
+      "coleccion": "ma-eugenia-gaytan",
+      "estado_autoria": "Autoría no verificada; recurso de la biblioteca"
+    },
+    {
+      "titulo": "Evaluación 1.1.1: La baraja de mi comunidad",
+      "categoria": "Formación socioemocional III",
+      "descripcion": "Diseño de un juego cooperativo, cultural e inclusivo. Copia sin nombre ni grupo del estudiante.",
+      "paginas": 9,
+      "archivo": "pdf/03_Evaluacion_1.1.1_Baraja_de_mi_Comunidad.pdf",
+      "autor": null,
+      "coleccion": "ma-eugenia-gaytan",
+      "estado_autoria": "Autoría no verificada; recurso de la biblioteca"
+    },
+    {
+      "titulo": "Guía 1.5 y 1.6",
+      "categoria": "Lectura y argumentación",
+      "descripcion": "Análisis literario y método de Toulmin. Síntesis adaptada para consulta educativa.",
+      "paginas": 10,
+      "archivo": "pdf/04_Guia_1.5_y_1.6.pdf",
+      "autor": null,
+      "coleccion": "ma-eugenia-gaytan",
+      "estado_autoria": "Autoría no verificada; recurso de la biblioteca"
+    },
+    {
+      "titulo": "Amar y reconstruirse: Ser hombre sin morir en el intento",
+      "categoria": "Libros · muestra editorial",
+      "descripcion": "Cubierta y páginas preliminares de una versión recuperada; no es el libro completo.",
+      "paginas": 4,
+      "archivo": "pdf/05_Amar_y_reconstruirse_muestra.pdf",
+      "autor": "Juan Miguel Aranda Patlán",
+      "coleccion": "miguel-patlan",
+      "estado_autoria": "Autor indicado en la obra"
+    },
+    {
+      "titulo": "Antes de perderme otra vez: Amar con toda mi vida sin perder mi amor propio",
+      "categoria": "Libros · muestra editorial",
+      "descripcion": "Cubierta y páginas preliminares de una versión recuperada; no es el libro completo.",
+      "paginas": 4,
+      "archivo": "pdf/06_Antes_de_perderme_otra_vez_muestra.pdf",
+      "autor": "Juan Miguel Aranda Patlán",
+      "coleccion": "miguel-patlan",
+      "estado_autoria": "Autor indicado en la obra"
+    },
+    {
+      "titulo": "Diccionario psicológico: términos 51–100",
+      "categoria": "Divulgación psicológica",
+      "descripcion": "Conceptos y ejemplos ilustrativos; no sustituye una evaluación profesional.",
+      "paginas": 21,
+      "archivo": "pdf/07_Diccionario_psicologico_51_100.pdf",
+      "autor": null,
+      "coleccion": "miguel-patlan",
+      "estado_autoria": "Recurso de la biblioteca; autoría no verificada"
+    },
+    {
+      "titulo": "Perfil profesional · Psicoterapia Esencial®",
+      "categoria": "Presentación profesional",
+      "descripcion": "Perfil de referencia recuperado, sin datos administrativos, contacto ni cuotas.",
+      "paginas": 1,
+      "archivo": "pdf/08_Perfil_profesional_publico.pdf",
+      "autor": null,
+      "coleccion": "miguel-patlan",
+      "estado_autoria": "Recurso de la biblioteca; autoría no verificada"
+    },
+    {
+      "titulo": "Pensamiento filosófico",
+      "categoria": "Material educativo",
+      "descripcion": "Infografía y aplicaciones cotidianas del pensamiento crítico (selección).",
+      "paginas": 2,
+      "archivo": "pdf/09_Pensamiento_filosofico.pdf",
+      "autor": null,
+      "coleccion": "miguel-patlan",
+      "estado_autoria": "Recurso de la biblioteca; autoría no verificada"
+    }
+  ]
+}
